@@ -12,4 +12,4 @@ Want to be a Software Engineer !
 
 <!--AyushSehrawat -->
 <!-- Also feel free to update second URL to any URL -->
-[![AyushSehrawat's github stats](https://github-readme-stats.vercel.app/api?username=❔❔❔❔&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
+[![AyushSehrawat's github stats](https://github-readme-stats.vercel.app/api?username=AyushSehrawat&count_private=true&include_all_commits=true&theme=radical)](https://google.com)
