@@ -5,7 +5,7 @@
 
 📫 How to reach me: ayushsehrawat10099@gmail.com
 
-😄 Goal: (For Now) Intermediate Python Dev by 2020 end!
+😄 Goal: (For Now) Learn C++ before death 😜
 
 
 ## My Stats
