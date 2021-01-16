@@ -9,7 +9,7 @@
 
 
 ## My Stats
-[![AyushSehrawat's github stats](https://github-readme-stats.vercel.app/api?username=AyushSehrawat&count_private=true&include_all_commits=true&theme=radical)](https://github.com/AyushSehrawat/Python-3-Files)
+[![AyushSehrawat's github stats](https://github-readme-stats.vercel.app/api?username=AyushSehrawat&count_private=true&include_all_commits=true&theme=radical)](https://github.com/AyushSehrawat)
 
 ### Languages and Tools:
 
