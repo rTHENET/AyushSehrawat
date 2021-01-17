@@ -1,4 +1,4 @@
-# Hi there 👋
+![Ayush](https://i.imgur.com/XtCq1iv.png)
 
 ## About Me-
 🌱 I’m currently learning Python
