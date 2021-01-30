@@ -1,15 +1,5 @@
 ![Ayush](https://i.imgur.com/XtCq1iv.png)
 
-## About Me-
-🌱 I’m currently learning Python
-
-📫 How to reach me: ayushsehrawat10099@gmail.com
-
-😄 Goal: (For Now) Learn C++ before death 😜
-
-Best Project - [Leafy Discord Bot](https://github.com/AyushSehrawat/leafy-discord)
-
-
 ## My Stats
 [![AyushSehrawat's github stats](https://github-readme-stats.vercel.app/api?username=AyushSehrawat&count_private=true&include_all_commits=true&theme=radical)](https://github.com/AyushSehrawat)
 
