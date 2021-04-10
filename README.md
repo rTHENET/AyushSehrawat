@@ -1,15 +1,18 @@
-![Ayush](https://i.imgur.com/XtCq1iv.png)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-## My Stats
-[![AyushSehrawat's github stats](https://github-readme-stats.vercel.app/api?username=AyushSehrawat&count_private=true&include_all_commits=true&theme=radical)](https://github.com/AyushSehrawat)
+<p>Welcome to my profile! </br> I'm Ayush, backend developer from <b>Delhi, India</b>.</p>
 
-### Languages and Tools:
+<h3>Things I code with</h3>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-45b8d8?style=flat-square&logo=python&logoColor=white" />
+  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-43853d?style=flat-square&logo=css&logoColor=white" />
+  <img alt="SQL" src="https://img.shields.io/badge/-SQL-E10098?style=flat-square&logo=sql&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="github actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
+ </p>
+ 
+ 📈 My GitHub Stats
 
-<img align="left" alt="Python" width="26px" src="https://files.realpython.com/media/python-logo.8eb72ea6927b.png" />
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="PyCharm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1200px-PyCharm_Logo.svg.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Anaconda Navigator" width="26px" src="https://docs.anaconda.com/_images/Navigator_Launchpad_icon.png" />
-<img align="left" alt="Jupyter Notebook" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=ayushsehrawat&show_icons=true&theme=gotham" alt="ayushsehrawat" />
