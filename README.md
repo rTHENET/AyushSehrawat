@@ -20,4 +20,7 @@ const ayush = {
    <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSehrawat&theme=city-lights"/>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
