@@ -22,7 +22,9 @@ const ayush = {
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Python       1 hr 45 mins    █████████████████████▒░░░   85.23 % 
+Markdown     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
+JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 ```
 <!--END_SECTION:waka-->
 
