@@ -22,9 +22,9 @@ const ayush = {
 
 <!--START_SECTION:waka-->
 ```text
-Python       1 hr 45 mins    █████████████████████▒░░░   85.23 % 
-Markdown     14 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.03 % 
-JSON         2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Python       2 hrs 15 mins   █████████████████████▓░░░   87.03 % 
+Markdown     16 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 ```
 <!--END_SECTION:waka-->
 
