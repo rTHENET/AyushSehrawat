@@ -22,9 +22,9 @@ const ayush = {
 
 <!--START_SECTION:waka-->
 ```text
-HTML         10 mins         ████████████▒░░░░░░░░░░░░   49.69 % 
-TypeScript   5 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.94 % 
-Python       4 mins          █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+Python       22 mins         ██████████████░░░░░░░░░░░   56.55 % 
+HTML         10 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.16 % 
+TypeScript   5 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 % 
 ```
 <!--END_SECTION:waka-->
 
