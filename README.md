@@ -25,5 +25,11 @@ Discord: Mini#5183
 </p>
 
 <!--START_SECTION:waka-->
-
+```text
+Python     10 hrs 17 mins  ████████████████████░░░░░   79.37 % 
+Markdown   1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JSON       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Text       26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+HTML       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+```
 <!--END_SECTION:waka-->
