@@ -1,35 +1,29 @@
-<h2> Hi, I'm Ayush Sehrawat! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://avatars.githubusercontent.com/u/69469790?v=4" width="230">
-<p><em>A student who likes cs/programming</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>A backend Developer.</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
-
-[![GitHub Ayush](https://img.shields.io/github/followers/ayushsehrawat?label=follow&style=social)](https://github.com/AyushSehrawat)
-
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-
-```javascript
-const ayush = {
-  pronouns: "he" | "him",
-  code: [Python, Javascript, HTML, CSS],
-}
+```zsh
+> neofetch
 ```
 
-<p align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=AyushSehrawat&show_icons=true&theme=prussian"/>
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AyushSehrawat&theme=city-lights"/>
+<img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
+
+```csharp
+ayushsehrawat@github
+-------------------------
+OS: Arch Linux x86_64
+Shell: zsh 5.8
+Pronouns: He/Him
+Location: Delhi, India
+Frameworks: Flask, Django, FastAPI, Quart
+Languages: Python,JavaScript,
+           HTML, CSS
+Learning: mongoDB, Node.js PostgreSQL,
+          CPP
+Hobbies: Reading, manga
+Discord: Mini#5183
+```
+<p align="left">
+  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+  <img alt="#474342" src="https://via.placeholder.com/15/474342/000000?text=+" width="25" height="20" /><img alt="#fbedf6" src="https://via.placeholder.com/15/fbedf6/000000?text=+" width="25" height="20" /><img alt="#c9594d" src="https://via.placeholder.com/15/c9594d/000000?text=+" width="25" height="20" /><img alt="#f8b9b2" src="https://via.placeholder.com/15/f8b9b2/000000?text=+" width="25" height="20" /><img alt="#ae9c9d" src="https://via.placeholder.com/15/ae9c9d/000000?text=+" width="25" height="20" />
 </p>
 
 <!--START_SECTION:waka-->
-```text
-Python     10 hrs 17 mins  ████████████████████░░░░░   79.37 % 
-Markdown   1 hr 2 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-JSON       30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Text       26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
-HTML       19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
-```
+
 <!--END_SECTION:waka-->
-
----
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=ayushsehrawat&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)
