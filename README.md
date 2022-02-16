@@ -28,6 +28,8 @@ Discord: Mini#5183
 
 <!--START_SECTION:waka-->
 ```text
+Total: 15 hrs 22 mins
+
 Python     12 hrs 54 mins  █████████████████████░░░░   83.93 % 
 JSON       2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 % 
 Markdown   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 % 
