@@ -11,7 +11,6 @@ OS: Arch Linux x86_64
 Shell: zsh 5.8
 Pronouns: He/Him
 Location: Delhi, India
-Organisation - MiniHut, Senarc-Studios
 Frameworks: Flask, Django, FastAPI, Quart
 Languages: Python,JavaScript,
            HTML, CSS
