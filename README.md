@@ -27,13 +27,16 @@ Discord: Mini#5183
 ---
 
 <!--START_SECTION:waka-->
+
 ```text
-Python       2 hrs 31 mins   █████████████████▓░░░░░░░   70.85 % 
-HTML         32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-JSON         13 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-JavaScript   12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-CSS          3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+Python             3 hrs 17 mins   ████████████████░░░░░░░░░   64.60 %
+TOML               1 hr 10 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
+Markdown           28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 %
+JSON               4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+Text               2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+Git Config         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
 ```
+
 <!--END_SECTION:waka-->
 
 Personal Organisations - [@minihut](https://github.com/minihut)
