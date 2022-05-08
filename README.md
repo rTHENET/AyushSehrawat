@@ -5,19 +5,17 @@
 <img align="left" src="https://i.redd.it/h7dae4o0uk461.jpg" alt="Bakaguya made by レヴィノス (https://www.pixiv.net/en/artworks/80962527)" width="320" /> 
 
 ```csharp
-ayushsehrawat@github
--------------------------
-OS: Arch Linux x86_64
-Shell: zsh 5.8
-Pronouns: He/Him
-Location: Delhi, India
-Frameworks: Flask, Django, FastAPI, Quart
+Natecoding@github
+
+OS: windowe Mac OS 
+Location: Thai
+Frameworks: Django, FastAPI, Quart
 Languages: Python,JavaScript,
-           HTML, CSS
+           HTML, CSS, C#, GO, 
 Learning: mongoDB, Node.js PostgreSQL,
           CPP
-Hobbies: Reading, manga
-Discord: Mini#5183
+Hobbies: Reading
+Discord: 𝐓𝐡𝐞𝐍𝐚𝐭𝐞#5026
 ```
 <p align="left">
   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
